@@ -16,6 +16,7 @@
 * 下載 Python: 
   
   如果是 MacOS，恭喜不需要額外裝，直接開啟終端機執行 python3進入Python世界。(難怪Macbook都這麼貴，呵呵)
+  
   如果是 Windows，下載連結如下，下載後開啟exe安裝，努力地，用力地按下一步。
   
   https://www.python.org/downloads/release/python-386/
