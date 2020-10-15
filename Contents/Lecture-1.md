@@ -49,3 +49,12 @@
 ![](assets/opening.png)
 
 https://zh.wikipedia.org/wiki/Hello_World
+
+## Hacking Day
+1. 
+    https://drive.google.com/file/d/1D87Q_eCk0kOOhdPUq08miAm12jYme90N/view?usp=sharing
+
+    ![](assets/game-demo.png)
+2. 模仿後門程式
+   
+   https://github.com/yanshuolee/Network-programming/tree/master/Command%20Line%20connection
