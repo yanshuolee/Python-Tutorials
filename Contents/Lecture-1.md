@@ -1,5 +1,9 @@
 # Lecture 1 - Computational thinking / Python 安裝與開發環境介紹 / Hello World
 
+## Homework
+1. 安裝 jupyter notebook
+2. 階乘程式 (i.e. 輸入 : 5，輸出：5x4x3x2x1=120)
+
 ## What the hell is computational thinking?
 1. [什麼是「運算思維」？](https://medium.com/orangeapple/%E4%BB%80%E9%BA%BC%E6%98%AF-%E9%81%8B%E7%AE%97%E6%80%9D%E7%B6%AD-dbb763237e65)
 2. [Wing Jeannette M 2008Computational thinking and thinking about computingPhil. Trans. R. Soc. A.3663717–3725](http://doi.org/10.1098/rsta.2008.0118)
@@ -16,7 +20,7 @@
 * 下載 Python: 
   
   如果是 MacOS，恭喜不需要額外裝，直接開啟終端機執行 python3進入Python世界。(難怪Macbook都這麼貴，呵呵)
-  
+
   如果是 Windows，下載連結如下，下載後開啟exe安裝，努力地，用力地按下一步。
   
   https://www.python.org/downloads/release/python-386/
