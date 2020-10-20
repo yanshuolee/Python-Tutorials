@@ -50,6 +50,10 @@
   
   https://www.jetbrains.com/pycharm/
 
+## VS Code Extension
+* https://marketplace.visualstudio.com/items?itemName=ms-python.python
+* https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit
+
 ## Hello World
 ![](assets/opening.png)
 
