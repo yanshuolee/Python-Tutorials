@@ -27,10 +27,10 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ## 大綱
-| 日期 | 主題 |
-| -------- | -------- |
-| 2020.10.16 | [Lecture 1 - Computational thinking / Python 安裝與開發環境介紹 / Hello World](Contents/Lecture-1.md) |
-| 2020.10.23 | [Lecture 2 - 資料結構 (tuple / list / dictionary)](Contents/Lecture%202%20-%20資料結構.ipynb) |
+| 日期 | 主題 | 作業 |
+| -------- | -------- | -------- |
+| 2020.10.16 | [Lecture 1 - Computational thinking / Python 安裝與開發環境介紹 / Hello World](Contents/Lecture-1.md) | [作業](Contents/Homework.md#Lecture1) |
+| 2020.10.23 | [Lecture 2 - 資料結構 (tuple / list / dictionary)](Contents/Lecture%202%20-%20資料結構.ipynb) | [作業](Contents/Homework.md#Lecture2) |
 | 2020.10.30 | Lecture 3 - if-else / while 迴圈 / for 迴圈 |
 | 2020.11.06 | Lecture 4 - Function |
 | 2020.11.13 | Lecture 5 - Object：所有東西都是物件(object) |
