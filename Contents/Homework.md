@@ -8,17 +8,7 @@
 參考網站：https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas-dataframe  
 
 ## Lecture 3
-Write a program to make such a pattern like a pyramid with a number which will repeat the number in the same row.
-input: number of row
-output: a pyramid with numbers
-```
-input = 4
-
-   1
-  2 2
- 3 3 3
-4 4 4 4
-```
+利用一個 while / for loop 印出九九乘法表 
 
 [Challenge]  
 Write a C program to display Pascal's triangle.
