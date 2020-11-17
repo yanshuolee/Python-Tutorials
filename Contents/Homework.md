@@ -10,8 +10,8 @@
 ## Lecture 3
 利用一個 while / for loop 印出九九乘法表 
 
-[Challenge]  
-Write a C program to display Pascal's triangle.
+### **Challenge**  
+Write a program to display Pascal's triangle.
 input: height, starting from zero
 output: Pascal's triangle
 ```
@@ -23,3 +23,9 @@ input = 4
   1   3   3   1
 1   4   6   4   1 
 ```
+
+## Lecture 4  
+接續 Lecture 3 的作業，但不限制使用一個 while / for loop 印出九九乘法表。  
+將此程式寫成一個function，並使用模組化方式匯入主要的.py檔。  
+輸入： 一個整數 N (i.e. N=3)  
+輸出： 印出N x N的九九乘法表 (右下為3x3的結果)

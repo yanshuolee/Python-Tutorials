@@ -32,7 +32,7 @@ Namespaces are one honking great idea -- let's do more of those!
 | 2020.10.16 | [Lecture 1 - Computational thinking / Python 安裝與開發環境介紹 / Hello World](Contents/Lecture-1.md) | [![](assets/../Contents/assets/hw-1.png)](Contents/Homework.md#Lecture1) |
 | 2020.10.23 | [Lecture 2 - 資料結構 (tuple / list / dictionary)](Contents/Lecture%202%20-%20資料結構.ipynb) | [![](assets/../Contents/assets/hw-1.png)](Contents/Homework.md#Lecture2) |
 | 2020.10.30 | [Lecture 3 - if-else / while 迴圈 / for 迴圈](Contents/Lecture%203%20-%20流程控制.ipynb) | [![](assets/../Contents/assets/hw-1.png)](Contents/Homework.md#Lecture3) |
-| 2020.11.06 | [Lecture 4 - Function](Contents/Lecture%204%20-%20Function.ipynb) |
+| 2020.11.06 | [Lecture 4 - Function](Contents/Lecture%204%20-%20Function.ipynb) | [![](assets/../Contents/assets/hw-1.png)](Contents/Homework.md#Lecture4) |
 | 2020.11.13 | Lecture 5 - Object：所有東西都是物件(object) |
 | 2020.11.20 | Lecture 6 - Class：打造你的輪子吧! |
 | 2020.11.27 | Lecture 7 - File：匯入你的資料 |
